@@ -1,10 +1,14 @@
 # Setup
+
+remote_theme : poole/poole
+
 title: Poole
 tagline: The Jekyll Butler
 url: IlchaeJung.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
+
 
 # Gems
 plugins:
@@ -42,4 +46,3 @@ version: 3.0.0
 github:
   repo: https://github.com/poole/poole
   
-remote_theme : poole/poole
